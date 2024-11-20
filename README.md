@@ -101,6 +101,11 @@ docker-compose exec app php artisan migrate
 ```bash
 docker-compose exec app php artisan db:seed
 ```
+4. **Настройте путь к storage**
+Чтобы загруженные файлы работали, нужно использовать команду:
+```bash
+docker-compose exec app php artisan storage:link
+```
 
 ---
 
