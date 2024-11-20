@@ -73,7 +73,7 @@ cp .env.example .env
 
 ```env
 DB_CONNECTION=mysql
-DB_HOST=mysql
+DB_HOST=laravel-mysql
 DB_PORT=3306
 DB_DATABASE=blog_project
 DB_USERNAME=root
