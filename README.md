@@ -45,8 +45,8 @@
 1. **Клонируйте репозиторий:**
 
 ```bash
-git clone https://github.com/ваш-репозиторий.git
-cd ваш-репозиторий
+git clone https://github.com/maksatakashayev210998/blog.git
+cd blog
 ```
 
 2. **Соберите и запустите контейнеры Docker:**
